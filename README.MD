@@ -1,0 +1,1 @@
+ I'm Greg Mattia, a software engineer with a decade of customer service experience who's found a passion for problem-solving, project work, and collaboration. My current projects are built using HTML, CSS, JavaScript, MongoDB, and Express.js. Check out my projects, and let's connect to discuss tech, coding, and exciting opportunities for collaboration!
