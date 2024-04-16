@@ -1,11 +1,11 @@
  # About me
- - I'm Greg Mattia, a Full Stack Developer with a decade of customer service experience. My diverse troubleshooting skills, dedication, consistency, and organizational abilities not only enhance my personal growth but also significantly contribute to the progress of my team and colleagues.
+ - My name is Greg Mattia, and I’m a Web Developer from Long Island, New York. With three years of web development and six years in customer service, I've built a strong foundation as a versatile developer. My dedication and organizational skills contribute to both personal growth and team success.
 
 - You can contact me on my [LinkedIn](https://www.linkedin.com/in/greg-mattia/)!
 - Or you can look at my [Portfolio](https://gregmattia.dev)!
 
 # Software Development Skills
--  HTML, CSS, Javascript, Typescript, React, Node.js, Express.js, SQL, MongoDB, Python, Django, Angular, Socket.io, Next.js, Shopify, Wordpress, Drupal, jQuery, Tailwind, Zod
+-  HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Express.js, Next.js, MongoDB, mySQL, Socket.io, Python, Django, Google Cloud Platform, Git, Zod, JWT, Tailwind, Bootstrap
 
 # My Projects
 
